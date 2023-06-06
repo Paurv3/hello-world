@@ -1,2 +1,2 @@
 # hello-world
-Hola soy Pau y tengo 20 años
+Hola soy Pau vivo en españa y tengo 20 años
